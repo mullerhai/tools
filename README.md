@@ -33,3 +33,4 @@
 ### some  seldon-core docker images   do not contain some python package  ,you can run it image become container with  /bin/bash,then into the container ,edit python package source change to douban ,https://pypi.douban.com/simple ,and  pip3  install  keras  tensorflow pandas  scipy  grpc-tools. then  docker  commit this container will become new image 
 
 
+### notice :  some things was wrong  if you want to use helm ,you could choose,one your server  must has global vpn proxy to get googleapi reposity in China ,two  change the  default repo to aliyun and so on 
