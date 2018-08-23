@@ -34,3 +34,15 @@
 
 
 ### notice :  some things was wrong  if you want to use helm ,you could choose,one your server  must has global vpn proxy to get googleapi reposity in China ,two  change the  default repo to aliyun and so on 
+
+
+### maybe you want download some compoment  fast  in China low net speed and  great firewall block ,
+###  for docker   suggest use  netease     http://hub-mirror.c.163.com
+### for  python pip package  use   htttps://pypi.douban.com/simple
+### for helm 
+### for kubenete 
+### for maven  use  aliyun
+### for  scala  sbt use aliyun
+### for nodejs  npm use aliyun
+
+
