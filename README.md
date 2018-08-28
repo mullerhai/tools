@@ -91,6 +91,7 @@ https://blog.csdn.net/yangzhenzhen/article/details/77823331
 ./configure --enable-coverage --with-go=no --with-golang=no
 make  && make install 
 
+if make thrift failed beaucse nodejs compile  ,you can add args  --with-js-no --with-node=no --with-nodejs=no ,maybe it can successsed 
 
 ### when you want to install grpc 
 
